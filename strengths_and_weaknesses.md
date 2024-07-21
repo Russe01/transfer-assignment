@@ -4,3 +4,4 @@
 
 # Weaknesses
 - Die Historie nimmt Speicherplatz ein (aber nur wenig).
+- Hat Schwierigkeiten mit binären (d. h. nicht-textbasierten) Dateien.
