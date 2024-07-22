@@ -14,7 +14,7 @@ The idea intrigued them, and they decided to give it a try. Aaron set up the rep
 
 One day, Mia encountered a problem. She had made some changes to a character design that didn't work out. Frustrated, she turned to Aaron. "I wish I could go back to the old version of this file," she said.
 
-"That's easy," Aaron replied with a smile. "Git’s history allows you to go back and understand changes or revert when there are problems. Let's check the commit history and restore the previous version."
+"That's easy," Aaron replied with a smile. "Git history allows you to go back and understand changes or revert when there are problems. Let's check the commit history and restore the previous version."
 
 A few clicks later, Mia's design was back to its original state. "This is amazing!" she exclaimed. "Git really saves us so much time and stress."
 
