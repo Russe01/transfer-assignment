@@ -1,7 +1,7 @@
 # Strengths
-- Es ist sehr schwer, Dateien mit Git zu verlieren.
-- Die Historie ermöglicht es Ihnen, zurückzugehen und Änderungen zu verstehen oder bei Problemen zurückzusetzen.
+- Very hard to lose files with git.
+- History allows you to go back and understand changes or revert when there are problems.
 
 # Weaknesses
-- Die Historie nimmt Speicherplatz ein (aber nur wenig).
-- Hat Schwierigkeiten mit binären (d. h. nicht-textbasierten) Dateien.
+- History takes up file space (but only little).
+- Struggles with binary (i.e. non-text) files.
